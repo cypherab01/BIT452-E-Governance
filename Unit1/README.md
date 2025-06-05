@@ -806,3 +806,43 @@ The notes (_Unit 1 - Introduction to E-Government and E-Governance.pdf_, pages 3
 -   **For Long Answers**: Explain trends with data and examples, linking to Nepal’s context.
 -   **Diagram**: If allowed, create a table (Trend, Statistic, Example) for clarity.
 -   **Time Management**: Spend 8-10 minutes on a 6-mark question, covering trends concisely.
+
+---
+
+### E-Governance Types
+
+The notes (_Unit 1 - Introduction to E-Government and E-Governance.pdf_, pages 6-10) mention four types of E-Governance interactions, which are not explicitly listed in the BIT452 syllabus but are relevant for a complete understanding of Unit 1. Below is a concise note on these types with brief descriptions, tailored for quick exam preparation.
+
+-   **G2C (Government to Citizen)**:
+
+    -   **Description**: Digital interactions between government and citizens to deliver public services, information, and benefits. Aims to make services accessible, convenient, and citizen-centric.
+    -   **Example**: Nepal’s online passport application portal allows citizens to apply for passports digitally.
+
+-   **G2B (Government to Business)**:
+
+    -   **Description**: Digital platforms facilitating government-business interactions, such as licensing, permits, and tax filing. Simplifies administrative processes and enhances ease of doing business.
+    -   **Example**: Nepal’s e-procurement system enables businesses to submit tenders online.
+
+-   **G2E (Government to Employee)**:
+
+    -   **Description**: Use of digital tools to manage internal government operations and employee processes, like payroll, training, and leave applications. Boosts employee efficiency and satisfaction.
+    -   **Example**: Nepal’s Human Resource Management Software streamlines employee records and payroll.
+
+-   **G2G (Government to Government)**:
+    -   **Description**: Digital exchange of data and services between government agencies or departments to improve coordination and efficiency. Breaks down silos for better governance.
+    -   **Example**: Nepal’s NICNET connects government offices for inter-departmental data sharing.
+
+#### Key Points for Exam Preparation
+
+-   **Memorization Aid**: Use acronym **CBEG** (Citizen, Business, Employee, Government) to recall types.
+-   **Common Exam Questions**:
+    -   List the types of E-Governance interactions. (4 marks)
+    -   Briefly explain G2C and G2B with examples. (5 marks)
+-   **Examples**: Stick to Nepal-specific cases (e.g., Smart Nagarpalika for G2C, e-procurement for G2B).
+-   **Conceptual Clarity**: Understand each type’s focus (citizen services, business efficiency, employee management, inter-agency coordination).
+
+#### Exam Tips
+
+-   **For Short Answers**: List the four types with one-line descriptions.
+-   **For Long Answers**: Explain each type briefly with a Nepal-specific example.
+-   **Time Management**: Spend 5-7 minutes on a 4-5 mark question, covering all types concisely.
